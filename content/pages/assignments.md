@@ -22,7 +22,7 @@ SOLUTIONS
 [Homework 1 (PDF)]({{< baseurl >}}/resources/mit3_044s13_pset1)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homework 1 solutions (PDF - 1.3MB)]({{< baseurl >}}/resources/mit3_044s13_pset1solns)
+[Homework 1 solutions (PDF - 1.3MB)]({{< baseurl >}}/resources/mit3_044s13_pset1solns)
 {{< tdclose >}}
 
 {{< trclose >}}

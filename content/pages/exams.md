@@ -28,7 +28,7 @@ SOLUTIONS
 [Final (PDF)]({{< baseurl >}}/resources/mit3_044s13_2009final)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Final solutions (PDF)]({{< baseurl >}}/resources/mit3_044s13_2009finalsolns)
+[Final solutions (PDF)]({{< baseurl >}}/resources/mit3_044s13_2009finalsolns)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,9 +48,9 @@ SOLUTIONS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam 1 solutions (PDF)]({{< baseurl >}}/resources/mit3_044s13_2011exam1solns)
+[Exam 1 solutions (PDF)]({{< baseurl >}}/resources/mit3_044s13_2011exam1solns)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam 2 solutions (PDF)]({{< baseurl >}}/resources/mit3_044s13_2011exam2solns)
+[Exam 2 solutions (PDF)]({{< baseurl >}}/resources/mit3_044s13_2011exam2solns)
 
 
 {{< tdclose >}}
@@ -72,9 +72,9 @@ SOLUTIONS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam 1 solutions (PDF)]({{< baseurl >}}/resources/mit3_044s13_2012exam1solns)
+[Exam 1 solutions (PDF)]({{< baseurl >}}/resources/mit3_044s13_2012exam1solns)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam 2 solutions (PDF)]({{< baseurl >}}/resources/mit3_044s13_2012exam2solns)
+[Exam 2 solutions (PDF)]({{< baseurl >}}/resources/mit3_044s13_2012exam2solns)
 
 
 {{< tdclose >}}
@@ -96,9 +96,9 @@ SOLUTIONS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam 1 solutions (PDF)]({{< baseurl >}}/resources/mit3_044s13_2013exam1solns)
+[Exam 1 solutions (PDF)]({{< baseurl >}}/resources/mit3_044s13_2013exam1solns)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam 2 solutions (PDF)]({{< baseurl >}}/resources/mit3_044s13_2013exam2solns)
+[Exam 2 solutions (PDF)]({{< baseurl >}}/resources/mit3_044s13_2013exam2solns)
 
 
 {{< tdclose >}}
