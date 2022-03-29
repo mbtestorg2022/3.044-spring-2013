@@ -26,42 +26,539 @@ This course provides an introduction to materials processing science, with an em
 Grading Components
 ------------------
 
-| ACTIVITIES | DESCRIPTIONS | PERCENTAGES |
-| --- | --- | --- |
-| 2 Tests | There will be two tests focused on concepts, which will take place in class. | 40% |
-| Final Exam | There will be a comprehensive final at the end of the course. | 35% |
-| Homework | 6 problem sets are planned, each with about 1.5 weeks between distribution and due date. These will likely be more mathematical than conceptual. | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTIONS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 Tests
+{{< tdclose >}}
+{{< tdopen >}}
+There will be two tests focused on concepts, which will take place in class.
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+There will be a comprehensive final at the end of the course.
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+6 problem sets are planned, each with about 1.5 weeks between distribution and due date. These will likely be more mathematical than conceptual.
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Note that for all assignments and exams, every problem will be equally weighted (5 points).
 
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} What is materials processing? {{< br >}}{{< br >}} Course overview {{< br >}}{{< br >}} Heat conduction equation {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Heat conduction equation review | Homework 1 out |
-| 3 |  {{< br >}}{{< br >}} Comparing heat transfer processes {{< br >}}{{< br >}} Three important cases {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Biot number {{< br >}}{{< br >}} Newtonian heating / cooling {{< br >}}{{< br >}} Transient solutions and dimensionless variables {{< br >}}{{< br >}}  | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Glass fibers & thermal spray industrial processes {{< br >}}{{< br >}} Analyzing thermal spray coatings {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework 1 due {{< br >}}{{< br >}} Homework 2 out {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Hot rolling steel {{< br >}}{{< br >}} 2D analysis, superposition & friction welding setup {{< br >}}{{< br >}}  | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Friction welding {{< br >}}{{< br >}} Introduction to radiation {{< br >}}{{< br >}} Black bodies, emissivity & radiation M number {{< br >}}{{< br >}}  | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Introduction to solidification {{< br >}}{{< br >}} Stefan condition, simplifying thermal profile {{< br >}}{{< br >}} Solidification in a thick mold {{< br >}}{{< br >}}  | Homework 2 due |
-| {{< td-colspan 3 >}}**Test I**{{< /td-colspan >}} |||
-| 9 |  {{< br >}}{{< br >}} Sand casting, lost foam, & cooled molds {{< br >}}{{< br >}} Interface resistance-limited solidification {{< br >}}{{< br >}} Single crystal production {{< br >}}{{< br >}} Introduction to binary solidification {{< br >}}{{< br >}}  | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} Binary solidification, no diffusion in the solid {{< br >}}{{< br >}} Solute balance, partition coefficient {{< br >}}{{< br >}}  | Homework 3 out |
-| 11 |  {{< br >}}{{< br >}} Zone refining {{< br >}}{{< br >}} Solidification with finite diffusion in liquid {{< br >}}{{< br >}} Unstable solidification fronts {{< br >}}{{< br >}} Engineering binary alloy microstructures {{< br >}}{{< br >}}  | Video project out |
-| 12 |  {{< br >}}{{< br >}} Fluid mechanics {{< br >}}{{< br >}} Introduction to fluid flow {{< br >}}{{< br >}}  | &nbsp; |
-| 13 |  {{< br >}}{{< br >}} Fluid flow {{< br >}}{{< br >}} Momentum conservation {{< br >}}{{< br >}} Flow between parallel plates {{< br >}}{{< br >}} Fluid free surface boundary condition {{< br >}}{{< br >}}  | Homework 3 due |
-| 14 |  {{< br >}}{{< br >}} 1D fluid flow with body forces {{< br >}}{{< br >}} Flow through plates {{< br >}}{{< br >}} Chart of all math in 3.044 {{< br >}}{{< br >}} Introduction to glass production {{< br >}}{{< br >}}  | Homework 4 out |
-| 15 |  {{< br >}}{{< br >}} Pilkington glass process–fluid flow {{< br >}}{{< br >}} Pilkington glass process–heat transfer {{< br >}}{{< br >}} Drag force {{< br >}}{{< br >}}  | &nbsp; |
-| 16 |  {{< br >}}{{< br >}} Navier-Stokes equation {{< br >}}{{< br >}} Reynolds number {{< br >}}{{< br >}}  | &nbsp; |
-| 17 |  {{< br >}}{{< br >}} Class canceled {{< br >}}{{< br >}}  | &nbsp; |
-| 18 |  {{< br >}}{{< br >}} Newtonian flow {{< br >}}{{< br >}} Introduction to non-Newtonian {{< br >}}{{< br >}} Solid state shape forming {{< br >}}{{< br >}}  | Homework 4 due |
-| 19 | More on Newtonian and non-Newtonian flow | Homework 5 out |
-| {{< td-colspan 3 >}}**Test II**{{< /td-colspan >}} |||
-| 20 |  {{< br >}}{{< br >}} Blow molding, compressive forming {{< br >}}{{< br >}} Introduction to powder processing {{< br >}}{{< br >}} Sintering, slurry processing {{< br >}}{{< br >}}  | &nbsp; |
-| 21 |  {{< br >}}{{< br >}} Colloid processing {{< br >}}{{< br >}} Slurry settling / casting {{< br >}}{{< br >}}  | Homework 5 due |
-| 22 |  {{< br >}}{{< br >}} Introduction to steel making {{< br >}}{{< br >}} Steel fluid flow analysis {{< br >}}{{< br >}} Steel solidification analysis {{< br >}}{{< br >}}  | Video project due |
-| 23 |  {{< br >}}{{< br >}} Steel solidification (cont.) {{< br >}}{{< br >}} Steel factory design {{< br >}}{{< br >}} A bit about electronics manufacturing {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**Final Exam**{{< /td-colspan >}} ||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What is materials processing?
+
+Course overview
+
+Heat conduction equation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Heat conduction equation review
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Comparing heat transfer processes
+
+Three important cases
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Biot number
+
+Newtonian heating / cooling
+
+Transient solutions and dimensionless variables
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Glass fibers & thermal spray industrial processes
+
+Analyzing thermal spray coatings
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 1 due
+
+Homework 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hot rolling steel
+
+2D analysis, superposition & friction welding setup
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Friction welding
+
+Introduction to radiation
+
+Black bodies, emissivity & radiation M number
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to solidification
+
+Stefan condition, simplifying thermal profile
+
+Solidification in a thick mold
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Test I**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sand casting, lost foam, & cooled molds
+
+Interface resistance-limited solidification
+
+Single crystal production
+
+Introduction to binary solidification
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Binary solidification, no diffusion in the solid
+
+Solute balance, partition coefficient
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Zone refining
+
+Solidification with finite diffusion in liquid
+
+Unstable solidification fronts
+
+Engineering binary alloy microstructures
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Video project out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Fluid mechanics
+
+Introduction to fluid flow
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Fluid flow
+
+Momentum conservation
+
+Flow between parallel plates
+
+Fluid free surface boundary condition
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1D fluid flow with body forces
+
+Flow through plates
+
+Chart of all math in 3.044
+
+Introduction to glass production
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pilkington glass process–fluid flow
+
+Pilkington glass process–heat transfer
+
+Drag force
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Navier-Stokes equation
+
+Reynolds number
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class canceled
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Newtonian flow
+
+Introduction to non-Newtonian
+
+Solid state shape forming
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+More on Newtonian and non-Newtonian flow
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Test II**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Blow molding, compressive forming
+
+Introduction to powder processing
+
+Sintering, slurry processing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Colloid processing
+
+Slurry settling / casting
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to steel making
+
+Steel fluid flow analysis
+
+Steel solidification analysis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Video project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Steel solidification (cont.)
+
+Steel factory design
+
+A bit about electronics manufacturing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Final Exam**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
