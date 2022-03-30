@@ -14,7 +14,7 @@ Recitations: 1 session / week, 1 hour / session
 Prerequisites
 -------------
 
-[3.012 _Fundamentals of Materials Science_](/courses/3-012-fundamentals-of-materials-science-fall-2005/)
+[3.012 _Fundamentals of Materials Science_](/courses/3-012-fundamentals-of-materials-science-fall-2005)
 
 3.022 _Microstructural Evolution in Materials_
 
